@@ -1,2 +1,2 @@
-Kaids_
+NoShader
 Kaids_
